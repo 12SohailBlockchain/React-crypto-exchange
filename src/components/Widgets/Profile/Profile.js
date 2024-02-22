@@ -64,7 +64,7 @@ const Profile = memo(() => {
         </div>
         <div className='box-horizontal-padding'>
           <div className='center'>
-            <h3>Cenk SARI</h3>
+            <h3>Sohail Ahmed</h3>
             <strong>Seviye 1</strong>
             <p>Limitlerinizi arttırmak için seviye 2 olmalısınız.</p>
             <Link to='/members/application'>Seviye 2 başvuru</Link>

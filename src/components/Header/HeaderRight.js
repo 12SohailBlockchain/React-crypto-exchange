@@ -57,7 +57,7 @@ const HeaderRight = memo(() => {
         <ul className='header-user nowrap'>
           <li>
             <Link to='/members'>
-              <span>Cenk SARI</span>
+              <span>Sohail Ahmed</span>
               <span>@cenksari</span>
             </Link>
           </li>
